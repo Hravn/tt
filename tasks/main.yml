@@ -1,0 +1,3 @@
+---
+  - name: Test
+    local_action: template src=test.j2 dest=/tmp/test
